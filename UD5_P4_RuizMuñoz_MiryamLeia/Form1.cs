@@ -45,5 +45,10 @@ namespace UD5_P4_RuizMuñoz_MiryamLeia
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

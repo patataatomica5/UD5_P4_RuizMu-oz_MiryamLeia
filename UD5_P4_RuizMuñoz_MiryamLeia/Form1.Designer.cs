@@ -67,6 +67,7 @@ namespace UD5_P4_RuizMuñoz_MiryamLeia
             this.label1.Size = new System.Drawing.Size(46, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "Usuario:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -140,7 +141,7 @@ namespace UD5_P4_RuizMuñoz_MiryamLeia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.MidnightBlue;
+            this.BackColor = System.Drawing.Color.LightSkyBlue;
             this.ClientSize = new System.Drawing.Size(702, 353);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.panel1);
