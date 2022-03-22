@@ -50,5 +50,10 @@ namespace UD5_P4_RuizMuñoz_MiryamLeia
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
